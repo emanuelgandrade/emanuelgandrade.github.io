@@ -20,7 +20,7 @@ google_plus_link: https://plus.google.com/+EmanuelAndradeg
 stackoverflow_link: http://emanuelgandrade.com/
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"mailto:emanuelgandrade@gmail.com?Subject=Hello%20again\">Emanuel G. Andrade</a>"
+footer_left: "Feito com<i class=\"fa fa-heart\"></i> por <a href=\"mailto:emanuelgandrade@gmail.com?Subject=Hello%20again\">Emanuel G. Andrade</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
